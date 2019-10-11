@@ -1,2 +1,6 @@
-# WeatherIconsCloudAnimated
-Addon for Kodi Weather with images svg free and created by me in animation
+# Animated Weather Icons for Kodi
+###Animated weather icons for a more dynamic display of weather forecasts.
+
+![Imgur](https://i.imgur.com/eFGFtPO.png)
+
+Icons animated Cloud.
